@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Match Lens
 // @namespace    matchlens.local
-// @version      0.2.0
+// @version      0.3.202610241112
 // @description  Weighted compatibility with your own deal-breakers, on top of Anuroop Wiwaha.
 // @match        https://www.anuroopwiwaha.com/*
 // @match        https://anuroopwiwaha.com/*
